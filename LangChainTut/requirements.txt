@@ -1,0 +1,7 @@
+langchain
+langchain-community
+streamlit
+numpy
+pandas
+requests
+langchain-google-genai

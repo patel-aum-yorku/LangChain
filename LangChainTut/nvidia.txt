@@ -1,0 +1,9 @@
+Nvidia and Foxconn have announced a joint plan to build a large-scale AI supercomputer in Taiwan, which will be operated by Foxconn's subsidiary, Big Innovation Company. Revealed during the Computex 2025 trade show, the project is backed by Taiwan's National Science and Technology Council and is being described as a national AI infrastructure initiative.
+
+The supercomputer will feature 10,000 of Nvidia's latest Blackwell GPUs and will incorporate the company's Blackwell Ultra systems, including the GB300 NVL72 rack-scale platform. It is expected to become one of the most powerful AI computing systems in Asia, offering access to startups, researchers, and enterprises across various sectors. The infrastructure will be integrated with Nvidia DGX Cloud Lepton, enabling flexible GPU use for a wide range of users.
+
+Foxconn Chairman Young Liu said the facility will be built in phases and will eventually reach 100 megawatts of power, depending on electricity availability. "We know that power is a very critical resource in Taiwan. I don't want to use the word 'shortage'. So it will take a few steps to reach 100 megawatts. We'll start with 20 megawatts… then add another 40," he said. Initial development is planned in the city of Kaohsiung, with additional locations under consideration.
+
+The AI computing centre is part of Taiwan's broader aim to strengthen its AI capabilities and support domestic innovation. Government officials have indicated that the facility will be central to efforts in AI education, healthcare, urban planning, and industry-led research.
+
+Nvidia CEO Jensen Huang, speaking at the event, described the project as an asset for Taiwan's wider tech community. "We're going to build an AI factory right for you (Foxconn) to use, for me to use, and for Taiwan's entire ecosystem to use," he said, noting that Nvidia currently has around 350 partners in the country.
