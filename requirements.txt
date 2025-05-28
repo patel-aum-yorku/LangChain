@@ -5,3 +5,4 @@ numpy
 pandas
 requests
 langchain-google-genai
+python-dotenv
