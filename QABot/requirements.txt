@@ -1,0 +1,17 @@
+langchain
+langchain-community
+streamlit
+numpy
+pandas
+requests
+langchain-google-genai
+python-dotenv
+unstructured 
+libmagic 
+python-magic 
+python-magic-bin
+Mysql-connector-python
+pymysql
+chromadb
+langchain-experimental
+faiss-cpu
